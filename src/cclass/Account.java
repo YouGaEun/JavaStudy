@@ -1,9 +1,9 @@
 package cclass;
 
 class Account2{
-	String accId;	//계좌번호 
+	String accId;	//계좌번호
 	String name;	//이름 
-	int balance;	//잔액 
+	int balance;	//잔액 짠 
 	
 	//출금 
 	public void withdraw(int money) {
