@@ -24,6 +24,7 @@ public class AreaCircle {
 		System.out.println("사각형의 면적 : " + area);
 		System.out.println("원의 면적 : " + areaCircle);
 		
+		System.out.println("test");
 		
 	}
 
